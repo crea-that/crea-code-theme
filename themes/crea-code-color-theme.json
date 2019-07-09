@@ -1,8 +1,8 @@
 {
-	"name": "crea-code",
+	"name": "Crea-Code",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
+		"editor.background": "#333D5B",
 		"editor.foreground": "#d4d4d4",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
